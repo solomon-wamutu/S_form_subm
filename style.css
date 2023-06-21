@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=');
+body{
+    background-color: aqua;
+}
+@import url('https://fonts.https://fonts.googleapis.com/css?family=Tangerine|Inconsolata|Droid+Sans.com/css?family=');
 *{
     margin: 0;
     padding: 0;
@@ -9,13 +12,12 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 130vh;
     width: 100%;
     background:transparent;
-    background:url('https://c4.wallpaperflare.com/wallpaper/531/951/621/digital-digital-art-artwork-illustration-minimalism-hd-wallpaper-preview.jpg')no-repeat;
-    background-position: center;
+    background: url('https://c4.wallpaperflare.com/wallpaper/41/681/303/pc-hd-1080p-nature-1920x1080-wallpaper-preview.jpg')no-repeat; background-position: center; 
     background-size: cover;
-}
+} 
 
 .form-box{
     position: relative;
@@ -128,3 +130,11 @@ text-align: center;
 
     text-decoration: underline;
 }
+.magex.clicked{
+    background-color: red;
+    border-radius: 10px;
+
+}
+
+
+
